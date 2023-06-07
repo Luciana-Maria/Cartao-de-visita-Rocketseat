@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ na DEVLINKS da  Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ❤️ por <strong>Luciana</strong>. Me acompanhe nas [redes sociais!](https://luciana-maria.github.io/Cartao-de-visita-Rocketseat/)
